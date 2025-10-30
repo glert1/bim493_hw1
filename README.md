@@ -1,5 +1,5 @@
 
-# BIM493 Mobile Programming I - Assignment #1
+# BIM493 Mobile Programming I - Assignment 1
 ## Department Application
 
 ### Group Members
