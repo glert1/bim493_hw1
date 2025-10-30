@@ -40,7 +40,7 @@ lib/
 
 1. **Clone the reposistory:**
 ```bash
-git clone [repository-url]
+git clone https://github.com/glert1/bim493_hw1
 cd department_app
 ```
 
