@@ -2,14 +2,6 @@
 # BIM493 Mobile Programming I - Assignment 1
 ## Department Application
 
-### Group Members
-
-| Ad Soyad      | Öğrenci Numarası |
-|---------------|------------------|
-| Gül ERTEN     | 23453142868      |
-| Nazife ATMACA | 20629742754      |
-| Buğra MUHÇİ   | 14492562250      |
-
 
 ---
 
